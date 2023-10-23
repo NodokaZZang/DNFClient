@@ -47,7 +47,7 @@ public class Network : MonoBehaviour
     {
         StartCoroutine(CoPublicIpSend());
 
-        if (_connector.ConnectTo("58.236.86.23", 30002))
+        if (_connector.ConnectTo("127.0.0.1", 30002))
         {
             _tcpThread = new Thread(new ThreadStart(TCPRecvProc));
             _tcpThread.Start();
