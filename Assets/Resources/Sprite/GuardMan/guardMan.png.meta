@@ -1,0 +1,766 @@
+fileFormatVersion: 2
+guid: 712aa684942838b48a87dbbbc5443a8c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: guardMan_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 446
+        width: 80
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc2de1dc6e67164d89a6e80d53216b4
+      internalID: 111668993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardMan_1
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 448
+        width: 73
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab5cd53abaced944b2bf9e5ca858f89
+      internalID: 1325189526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardMan_2
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 448
+        width: 64
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4834c4e59949e7b4dad31dec0af62603
+      internalID: 194616244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardMan_3
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 443
+        width: 64
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc18a7a4d64b5fc46af8b724d1f8e5ba
+      internalID: 2088975351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardMan_4
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 441
+        width: 68
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e582b54ac213f224e92789021cd4f264
+      internalID: -1180889715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardMan_5
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 445
+        width: 75
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58ba18ee27720342aa239763c8b3d36
+      internalID: 484220560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardMan_6
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 297
+        width: 58
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce025e5c259b66541a4885f46551d4e3
+      internalID: -1769571107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardMan_7
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 297
+        width: 120
+        height: 113
+      alignment: 9
+      pivot: {x: 0.23893508, y: 0.007018773}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a565e7a23073246b0471a6f5474d54
+      internalID: 1173535532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardMan_8
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 308
+        width: 137
+        height: 107
+      alignment: 9
+      pivot: {x: 0.23401949, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43e8b54ef73f8b41b72a96fd9cdb000
+      internalID: 1565833618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardMan_9
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 303
+        width: 110
+        height: 107
+      alignment: 9
+      pivot: {x: 0.17812057, y: -0.008137071}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4987531f41b25e547ae2202f49284ef6
+      internalID: -1073613665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardMan_10
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 293
+        width: 114
+        height: 142
+      alignment: 9
+      pivot: {x: 0.24411653, y: -0.006847328}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb52fd781b526b4698a83f357b6071a
+      internalID: 33939764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardMan_11
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 295
+        width: 113
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff785d16ac1df9c438cf92ecd81485dc
+      internalID: -1108414813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardMan_12
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 297
+        width: 98
+        height: 144
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01cc8d147f996ce42973c1e688b74945
+      internalID: -1697789731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardMan_13
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 297
+        width: 95
+        height: 144
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7de717ed0c6aa4581c1ab563b0ca52
+      internalID: -904181454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardMan_14
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 297
+        width: 102
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714a7168341121f45a31a1c8f612c698
+      internalID: 300439142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardMan_15
+      rect:
+        serializedVersion: 2
+        x: 2128
+        y: 301
+        width: 103
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2bb82f4d8b1bf4a92ba527592b6ab0
+      internalID: 893966830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardMan_16
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 297
+        width: 103
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ced6ca68f638a45ba5913aedeefb44
+      internalID: 1454860646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardMan_17
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 152
+        width: 85
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12bf23727344444cb5a1c9ae2fa43ed
+      internalID: 1414849843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardMan_18
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 152
+        width: 86
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f509f64ff3b795498c2758ee5598761
+      internalID: -1944829079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardMan_19
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 151
+        width: 73
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81abbcd9c20e034eb485e3dab5c5a3c
+      internalID: -550507652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardMan_20
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 151
+        width: 73
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e850824377afe9e47a6e7ab9ef3341ca
+      internalID: -72615268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardMan_21
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 151
+        width: 81
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74627beb98a1767479bfbdff5b37711d
+      internalID: -613325588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardMan_22
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 152
+        width: 131
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1367b3528b3a02b429e93d093a3dccf9
+      internalID: 370592084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardMan_23
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 152
+        width: 131
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de7e9db6cc578a468108f6249e3898f
+      internalID: -1551948762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardMan_24
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 152
+        width: 132
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d46d3d85476344eb407e7187c3a71a
+      internalID: 1790254681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardMan_25
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 5
+        width: 78
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cad7456206f7e548b36e62df6de2390
+      internalID: 1073445013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardMan_26
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 7
+        width: 72
+        height: 124
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859979de696d81a42bc43ae859c192f7
+      internalID: 608007873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardMan_27
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 2
+        width: 76
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19cf3d6ec8a1174599fbe90ba666a77
+      internalID: -1032533523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guardMan_31
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 8
+        width: 139
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fcbcc11e0e427c4ea342316ef434d74
+      internalID: 333955995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      guardMan_21: -613325588
+      guardMan_11: -1108414813
+      guardMan_25: 1073445013
+      guardMan_30: -16486030
+      guardMan_4: -1180889715
+      guardMan_28: 1282225569
+      guardMan_31: 333955995
+      guardMan_2: 194616244
+      guardMan_5: 484220560
+      guardMan_18: -1944829079
+      guardMan_20: -72615268
+      guardMan_3: 2088975351
+      guardMan_17: 1414849843
+      guardMan_15: 893966830
+      guardMan_14: 300439142
+      guardMan_12: -1697789731
+      guardMan_23: -1551948762
+      guardMan_24: 1790254681
+      guardMan_26: 608007873
+      guardMan_32: 1557103189
+      guardMan_19: -550507652
+      guardMan_7: 1173535532
+      guardMan_34: -290415092
+      guardMan_33: -891424768
+      guardMan_13: -904181454
+      guardMan_27: -1032533523
+      guardMan_6: -1769571107
+      guardMan_9: -1073613665
+      guardMan_16: 1454860646
+      guardMan_10: 33939764
+      guardMan_29: 1036174035
+      guardMan_22: 370592084
+      guardMan_8: 1565833618
+      guardMan_0: 111668993
+      guardMan_1: 1325189526
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
